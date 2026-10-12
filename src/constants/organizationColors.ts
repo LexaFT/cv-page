@@ -10,7 +10,8 @@ export const ORGANIZATION_COLORS: Record<string, string> = {
   tspeksi: '#808080',
   iw: '#DED1BB',
   KYS: '#000000',
-  
+  AaltoES: '#f7f2f2',
+  Junction: '#353679',
 };
 
 /**
