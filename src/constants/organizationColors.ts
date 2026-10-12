@@ -4,13 +4,14 @@
  */
 
 export const ORGANIZATION_COLORS: Record<string, string> = {
-  inkubio: '#34855B',
+  Inkubio: '#34855B',
   AYY: '#6f0075',
   HO: '#D1262F',
-  tspeksi: '#808080',
-  iw: '#DED1BB',
+  Teekkarispeksi: '#808080',
+  IW: '#DED1BB',
   KYS: '#000000',
-  
+  AaltoES: '#f7f2f2',
+  Junction: '#353679'
 };
 
 /**
