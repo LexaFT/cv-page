@@ -8,9 +8,9 @@ export const ORGANIZATION_COLORS: Record<string, string> = {
   AYY: '#6f0075',
   HO: '#D1262F',
   Teekkarispeksi: '#808080',
-  IW: '#DED1BB',
+  IW: '#d4af70',
   KYS: '#000000',
-  AaltoES: '#f7f2f2',
+  AaltoES: '#010120',
   Junction: '#353679'
 };
 
